@@ -7,7 +7,7 @@ import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 
 import com.Threaddly.Threaddly.entity.UserEntity;
-import com.Threaddly.Threaddly.model.UserModel;
+import com.Threaddly.Threaddly.model.request.UserModel;
 import com.Threaddly.Threaddly.repository.UserRepository;
 import com.Threaddly.Threaddly.service.UserService;
 

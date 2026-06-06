@@ -2,7 +2,7 @@ package com.Threaddly.Threaddly.service;
 
 import java.util.List;
 
-import com.Threaddly.Threaddly.model.UserModel;
+import com.Threaddly.Threaddly.model.request.UserModel;
 
 public interface UserService {
 

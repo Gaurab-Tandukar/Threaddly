@@ -1,4 +1,4 @@
-package com.Threaddly.Threaddly.model;
+package com.Threaddly.Threaddly.model.request;
 
 import lombok.Data;
 
