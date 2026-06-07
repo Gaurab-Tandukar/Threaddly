@@ -3,10 +3,9 @@ package com.Threaddly.Threaddly.model.request;
 import lombok.Data;
 
 @Data
-public class UserModel {
+public class UserRequest {
     
-    private Long id;
-    private String name;
+    private String username;
     private String email;
     private String password;
 }
